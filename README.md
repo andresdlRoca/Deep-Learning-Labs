@@ -6,3 +6,4 @@ Laboratorios:
 - [Laboratorio 2](./Lab%202/)
 - [Laboratorio 3](./Lab%203/)
 - [Laboratorio 4](./Lab%204/)
+- [Laboratorio 5](./Lab%205/)
